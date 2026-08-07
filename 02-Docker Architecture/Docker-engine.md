@@ -2,7 +2,7 @@
 
 ## 📖 Introduction
 
-While learning Docker Architecture, I found that the **Docker Engine** is the core component that makes Docker work. Every time we build an image, create a container, or manage Docker resources, the Docker Engine is responsible for carrying out those operations.
+From my understanding of Docker Architecture, I found that the **Docker Engine** is the core component that makes Docker work. Every time we build an image, create a container, or manage Docker resources, the Docker Engine is responsible for carrying out those operations.
 
 After reading the Docker documentation and other learning resources, I understood that Docker Engine acts as the runtime environment that powers Docker and enables containerization.
 
