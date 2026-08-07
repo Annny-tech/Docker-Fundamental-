@@ -1,7 +1,7 @@
 # What is Docker?
 
 <p align="center">
-  <img src="./images/docker-logo.png" alt="Docker Logo" width="300"/>
+  <img src="./images/docker.png" alt="Docker Logo" width="300"/>
 </p>
 
 ## 📖 Introduction
