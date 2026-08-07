@@ -51,6 +51,9 @@ Whenever a user executes a Docker command, the Docker Daemon processes the reque
 5. The result is returned to the Docker Client.
 
 ---
+<p align="center">
+  <img src="./images/docke-daemon.png" alt="Docker-daemon" width="300"/>
+</p>
 
 ## 🔄 Docker Daemon Workflow
 
