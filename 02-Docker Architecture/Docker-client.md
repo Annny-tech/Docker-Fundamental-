@@ -65,6 +65,9 @@ Docker Resources
 ```
 
 ---
+<p align="center">
+  <img src="./images/docker-client.png" alt="Docker-client" width="300"/>
+</p>
 
 ## ⭐ Common Docker Client Commands
 
